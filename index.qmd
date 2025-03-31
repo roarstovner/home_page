@@ -1,0 +1,18 @@
+---
+title: "Om meg"
+image: roarbs-press-crop.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Bluesky
+      href: https://bsky.app/profile/roarstovner.bsky.social
+    - icon: github
+      text: Github
+      href: https://github.com/roarstovner/
+    - icon: book
+      text: Bedre masterskriving for lærerstudenter
+      href: https://robast.quarto.pub/masterboka/
+---
+
+Jeg utdanner matematikklærere. Siden er under utvikling -- stay tuned!

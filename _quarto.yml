@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Roar Stovner"
+  description: "Roar Stovners personlige blogg"
+  navbar:
+    right:
+      - text: Blogg
+        href: blogg.qmd
+      - icon: github
+        href: https://github.com/ # endre!
+      - icon: twitter
+        href: https://bsky.app/profile/roarstovner.bsky.social
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+
