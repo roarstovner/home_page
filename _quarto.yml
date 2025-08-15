@@ -5,13 +5,22 @@ website:
   title: "Roar Stovner"
   description: "Roar Stovners personlige blogg"
   navbar:
+    left:
+      - icon: book
+        text: Bedre masterskriving for lærerstudenter
+        href: https://robast.quarto.pub/masterboka/
+      - icon: book
+        text: Kvantitative metoder for lærere
+        href: https://kvant.roarstovner.no
     right:
-      - text: Blogg
-        href: blogg.qmd
+      # - text: Blogg
+      #   href: blogg.qmd
       - icon: github
-        href: https://github.com/ # endre!
+        href: https://github.com/roarstovner # endre!
       - icon: twitter
         href: https://bsky.app/profile/roarstovner.bsky.social
+    pinned: true
+
 format:
   html:
     theme: cosmo
